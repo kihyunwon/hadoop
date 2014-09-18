@@ -1,0 +1,1 @@
+bjobId=job_1410757912572_0002,submitTime=1410758039778,launchTime=1410758047519,firstMapTaskLaunchTime=1410758050424,firstReduceTaskLaunchTime=1410758072051,finishTime=1410758079333,resourcesPerMap=1024,resourcesPerReduce=1024,numMaps=5,numReduces=1,user=deadmau,queue=default,status=SUCCEEDED,mapSlotSeconds=98,reduceSlotSeconds=7,jobName=QuasiMonteCarlo
